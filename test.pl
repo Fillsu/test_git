@@ -1,1 +1,1 @@
-print "hellow22\n";
+print "hellow_test\n";
